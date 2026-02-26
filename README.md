@@ -58,8 +58,3 @@ Mitigation using ModSecurity WAF
 Secure configuration and validation in a cloud deployment environment
 It reflects practical understanding of web application security and WAF-based protection mechanisms.
 
-
-🔹 Review your GitHub repo before final submission
-
-
-You're presenting a solid hands-on security project 👏
